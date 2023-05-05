@@ -19,6 +19,7 @@ A collection of projects, articles and resources related to [Buck2](https://buck
 - [Hermit](https://github.com/facebookexperimental/hermit): A linux hermetic, isolated sandbox for test executions and chaos experiments
 - [Reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
 - [OcamlRep](https://github.com/facebook/ocamlrep): libraries and tools to write applications and libraries mixing OCaml and Rust. Built with Buck2.
+- [Antlir](https://github.com/facebookincubator/antlir): rules and tools to build QEMU-compatible Linux Images for VM using Buck/Buck2. Antlir2 is being rewritten using Rust.
 - [Shed](https://github.com/facebookexperimental/rust-shed): Meta's Rust libraries commonly used between open source projects.
 - [Gazebo](https://github.com/facebookincubator/gazebo): Meta's Rust library collection of small well-tested primitives.
 - [Glean](https://github.com/facebookincubator/Glean): Meta code intelligent platforms.
