@@ -30,6 +30,8 @@ A collection of projects, articles and resources related to [Buck2](https://buck
 - [buck2-nix](https://github.com/thoughtpolice/buck2-nix): An experiment to integrate Buck2, Sapling, and Nix together in a harmonious way.
 - [install-buck2](https://github.com/dtolnay/install-buck2): Installing buck2 into Github Action.
 - [buck2.nvim](https://github.com/benbrittain/buck2.nvim): Neovim configuration to integrate with Buck2's Starlark LSP.
+- [buckle](https://github.com/benbrittain/buckle): Buck2 launcher / version manager, similar to Bazel's [Bazelisk](https://github.com/bazelbuild/bazelisk).
+- [NoRedInk-UI](https://github.com/NoRedInk/noredink-ui): a project which uses Buck2 to build Elm front-end application(s).
 
 ## Articles
 
