@@ -32,6 +32,7 @@ A collection of projects, articles and resources related to [Buck2](https://buck
 - [buck2.nvim](https://github.com/benbrittain/buck2.nvim): Neovim configuration to integrate with Buck2's Starlark LSP.
 - [buckle](https://github.com/benbrittain/buckle): Buck2 launcher / version manager, similar to Bazel's [Bazelisk](https://github.com/bazelbuild/bazelisk).
 - [NoRedInk-UI](https://github.com/NoRedInk/noredink-ui): a project which uses Buck2 to build Elm front-end application(s).
+- [buck2-go](https://github.com/sluongng/buck2-go): An attempt to recreate Bazel's rules_go for Buck2.
 
 ## Articles
 
