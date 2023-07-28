@@ -53,4 +53,4 @@ A collection of projects, articles and resources related to [Buck2](https://buck
 
 - [Buck2 team's Reddit AMA 05/2023](https://old.reddit.com/r/rust/comments/136qs44/hello_rrust_we_are_meta_engineers_who_created_the/)
 
-- [Buck2 Unofficial Community Discord](https://discord.com/invite/WJj9hf6x) managed by [@steveklabnik](https://github.com/steveklabnik)
+- [Buck2 Unofficial Community Discord](https://discord.gg/RdcZczTzb8) managed by [@steveklabnik](https://github.com/steveklabnik)
