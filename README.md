@@ -33,6 +33,7 @@ A collection of projects, articles and resources related to [Buck2](https://buck
 - [buckle](https://github.com/benbrittain/buckle): Buck2 launcher / version manager, similar to Bazel's [Bazelisk](https://github.com/bazelbuild/bazelisk).
 - [NoRedInk-UI](https://github.com/NoRedInk/noredink-ui): a project which uses Buck2 to build Elm front-end application(s).
 - [buck2-go](https://github.com/sluongng/buck2-go): An attempt to recreate Bazel's rules_go for Buck2.
+- [buck2_lua_rules](https://github.com/svermeulen/buck2_lua_rules): An implementation of buck2 build and run rules for languages [Lua](https://www.lua.org/) and [Teal](https://github.com/teal-language/tl)
 
 ## Articles
 
